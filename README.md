@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/nuget/dt/Entegre.Extensions?style=flat-square&logo=nuget&logoColor=white&label=Downloads&color=004880" alt="NuGet Downloads">
   </a>
   <a href="https://dotnet.microsoft.com/">
-    <img src="https://img.shields.io/badge/.NET-8.0+-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8+">
+    <img src="https://img.shields.io/badge/.NET-8.0%20|%209.0-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8 | 9">
   </a>
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License">
@@ -598,7 +598,7 @@ if (result.IsRight)
 
 ## Requirements
 
-- .NET 8.0 or later
+- .NET 8.0 or .NET 9.0
 - C# 12.0 or later
 
 ## Dependencies
